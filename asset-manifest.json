@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.018e0182.css",
+    "main.js": "/static/js/main.df5df6a1.js",
+    "static/media/bannierApropos.png": "/static/media/bannierApropos.388a325a41a4341c7ba0.png",
+    "static/media/banner.png": "/static/media/banner.7b295fcb71808167cd75.png",
+    "index.html": "/index.html",
+    "main.018e0182.css.map": "/static/css/main.018e0182.css.map",
+    "main.df5df6a1.js.map": "/static/js/main.df5df6a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.018e0182.css",
+    "static/js/main.df5df6a1.js"
+  ]
+}
